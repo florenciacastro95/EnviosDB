@@ -10,5 +10,5 @@ package factureishonproyect;
  * @author Usuario
  */
 public class Proveedor {
-    
+    private String nombre;
 }
